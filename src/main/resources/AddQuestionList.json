@@ -1,0 +1,122 @@
+[
+  {
+    "answer": "a",
+    "Option d ": "Regression testing",
+    "Option c ": "Sanity testing",
+    "Option b ": "Integration testing",
+    "Question": "which testing is done by developer?",
+    "Option a ": "Unit testing"
+  },
+  {
+    "answer": "a",
+    "Option d ": "Requirement Documentation",
+    "Option c ": "Requirement Analysis",
+    "Option b ": "Requirement Elicitation",
+    "Question": "Requirement Engineering is not concern with",
+    "Option a ": "Requirement Design"
+  },
+  {
+    "answer": "c",
+    "Option d ": "We cannot automate the user inputs",
+    "Option c ": "It may be difficult to determine if the test has passed or failed",
+    "Option b ": "It may be difficult to repeat the test",
+    "Question": " When an expected result is not specified in test case template then",
+    "Option a ": "We cannot run the test"
+  },
+  {
+    "answer": "a",
+    "Option d ": "Baseline Testing",
+    "Option c ": "Agile Testing",
+    "Option b ": "Monkey Testing",
+    "Question": "A test technique that involves testing with various ranges of valid and invalid inputs of a particular module or component functionality extensively is",
+    "Option a ": "Gorilla Testing "
+  },
+  {
+    "answer": "a",
+    "Option d ": "Algorithmic and Data Structure",
+    "Option c ": "Usability and Reliability",
+    "Option b ": " Architectural and Structural",
+    "Question": "End result of Software Requirement Analysis is",
+    "Option a ": "Functional and Behavioral"
+  },
+  {
+    "answer": "d",
+    "Option d ": "Data may be unavailable",
+    "Option c ": "The bug may not be the major effect in the software",
+    "Option b ": "Lack of time for the release",
+    "Question": "Bug status is set to postpone due to-",
+    "Option a ": "Priority of that bug may low"
+  },
+  {
+    "answer": "c",
+    "Option d ": "Dynamic Testing",
+    "Option c ": "Static Testing",
+    "Option b ": "Whitebox Testing",
+    "Question": "Which Testing is performed first?",
+    "Option a ": "Blackbox Testing"
+  },
+  {
+    "answer": "a",
+    "Option d ": "External and Internal resources respectively",
+    "Option c ": "External resources only",
+    "Option b ": " Internal resources only",
+    "Question": " Verification and Validation uses -",
+    "Option a ": "Internal and External resources respectively"
+  },
+  {
+    "answer": "c",
+    "Option d ": "All of these",
+    "Option c ": "Stress Testing",
+    "Option b ": "Performance Testing",
+    "Question": "Testing beyond normal operational capacity is",
+    "Option a ": "Load Testing"
+  },
+  {
+    "answer": "a",
+    "Option d ": "Derived from the code",
+    "Option c ": "Most useful when specified in advance",
+    "Option b ": "Only used in component testing",
+    "Question": "The expected results of the software is -",
+    "Option a ": "Only important in system testing"
+  },
+  {
+    "answer": "c",
+    "Option d ": "Predicate Coverage uses Boolean values",
+    "Option c ": "Error guessing has rules for testing",
+    "Option b ": "100% condition coverage does not guarantee 100% decision coverage",
+    "Question": "Which is not true?",
+    "Option a ": "Condition coverage is also known as Predicate Coverage"
+  },
+  {
+    "answer": "a",
+    "Option d ": "Test Configuration",
+    "Option c ": "Test Requirement",
+    "Option b ": "Test Planning",
+    "Question": "Test cases are created in which phase?",
+    "Option a ": "Test Specification"
+  },
+  {
+    "answer": "a",
+    "Option d ": "Breadth Testing",
+    "Option c ": "Inter-Systems Testing",
+    "Option b ": "Fuzz Testing",
+    "Question": "Which testing focuses on heavily testing of one particular module?",
+    "Option a ": "Gorilla Testing"
+  },
+  {
+    "answer": "d",
+    "Option d ": "All of these",
+    "Option c ": "Sanity testing",
+    "Option b ": "Retesting",
+    "Question": "Which testing cannot be performed on first build of the software?",
+    "Option a ": "Regression testing"
+  },
+  {
+    "answer": "d",
+    "Option d ": "End-to-End testing",
+    "Option c ": "Fuzz testing",
+    "Option b ": "Monkey testing",
+    "Question": "Which testing is performed with Planning and Documentation?",
+    "Option a ": "Ad-hoc testing"
+  }
+]
